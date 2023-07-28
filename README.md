@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## 💼 Professional Experience
 
-- [Talent](http://talent.com) - Back-end Developer - Nov 2022 - Present.
+- [Talent.com](http://talent.com) - Back-end Developer - Nov 2022 - Present.
 - [Materialise](https://www.materialise.com/) - Team Leader - Sep 2021 - Nov 2022.
 - [Materialise](https://www.materialise.com/) - Trainer & Technical  - Sep 2021 - Nov 2022.
 - [Materialise](https://www.materialise.com/) - Quality Engineer - Jan 2019 - Sep 2021.
