@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 - [Talent](http://talent.com) - Back-end Developer - Nov 2022 - Present.
 - [Materialise](https://www.materialise.com/) - Team Leader - Sep 2021 - Nov 2022.
 - [Materialise](https://www.materialise.com/) - Trainer & Technical  - Sep 2021 - Nov 2022.
-- [Materialise](https://www.materialise.com/) - Quality Engineer - Jan 2019 - Jan 2021.
+- [Materialise](https://www.materialise.com/) - Quality Engineer - Jan 2019 - Sep 2021.
 - [Materialise](https://www.materialise.com/) - Conversion & Designer Enginerer - Jan 2017 - Jan 2019.
 
 ## 🚀 Skills
