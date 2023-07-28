@@ -24,8 +24,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 Skills
 
-- Programming languages: Python, PHP, Mathematica.
-- Tools and technologies: SQL, Elasticsearch, Pandas.
+- Programming languages: Python, PHP & Mathematica.
+- Tools and technologies: SQL, Elasticsearch & Pandas.
 - Soft skills: Process Improvement, Commitment, Easy Adaptable & Learning Agility.
 
 ## 🌱 Currently Learning
