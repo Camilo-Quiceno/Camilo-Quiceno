@@ -37,5 +37,4 @@ Welcome to my GitHub profile!
 - Email: camilo.quiceno.q@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/camiloqq/](https://www.linkedin.com/in/camiloqq/)
 
-Thanks for stopping by! 😄t: ...
--->
+Thanks for stopping by! 😄
