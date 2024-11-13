@@ -1,18 +1,10 @@
 # Hi there 👋
 
-I'm Camilo Quiceno Quintero , a dynamic professional with a unique background in two exciting industries. I started my career in 3D printing design, specializing in custom patient guides for cranio maxillofacial surgeries 💀. For 5 years, I thrived as a designer, technical leader, and team leader in this captivating field.
+With 2 years of experience as a Software Developer and a Master's in Data Science, I specialize in backend development and building data-driven solutions. Currently, I work as a Backend Developer in the Data In Team at Talent.com, where I transform unstructured job listings into valuable, structured data, enhancing platform functionality and user experience.
 
-Driven by a passion for learning, I recently made a transition to the technology sector, where I currently excel as a backend developer. Simultaneously, I'm pursuing a master's degree in data science 💻.
+Over the past year, I led the full migration of Talent.com’s website from PHP to a modern microservices architecture using Go and TypeScript, deployed on Kubernetes and AWS. This migration not only improved scalability but also enabled the integration of AI-driven capabilities, setting the foundation for more dynamic and efficient platform performance. Additionally, I integrated real-time monitoring with Prometheus and Grafana to ensure optimal performance and resource utilization.
 
-My journey has taught me the power of embracing change and seeking new opportunities to apply my diverse skill set. I find immense satisfaction in learning and continuously improving.
-
-With a focus on data science and programming, I've gained insights into how data can revolutionize industries and optimize processes. Each project fuels my desire to expand my skills further.
-
-I'm eager to connect with like-minded professionals and explore potential collaborations. Let's chat about innovative ideas and exciting ventures!
-
-With an unwavering commitment to growth and a zest for the future, I'm ready to embrace challenges and thrive in the dynamic worlds of technology and data science.
-
-Welcome to my GitHub profile!
+Before joining Talent.com, I worked at Materialise, where I led the Plastic Design Team, focusing on quality assurance in the design of customized surgical guides, ensuring they met the highest standards of precision and functionality.
 
 ## 💼 Professional Experience
 
